@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.subtitle {
+    font-size: 36px;
+    font-weight: 400;
+    color: $third-blue;
+
+    b {
+        font-weight: 700;
+    }
+
+    &--white {
+        color: $white;
+    }
+}
+
+.paragraph {
+    font-size: 20px;
+    font-weight: 300;
+    max-width: 900px;
+    color: $third-blue;
+
+    &--white {
+        color: $white;
+    }
+}
+
+.subtitle3 {
+    font-size: 24px;
+    font-weight: 700;
+    color: $third-blue;
+}
+
+.subtitle4 {
+    font-size: 20px;
+    font-weight: 600;
+    color: $third-blue;
+
+    &--white {
+        color: $white;
+    }
+}

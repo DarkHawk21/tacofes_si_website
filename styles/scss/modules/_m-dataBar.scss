@@ -1,0 +1,70 @@
+.dataBar {
+    width: 100%;
+    padding: 10px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    background: $third-blue;
+    
+    p {
+        color: $white;
+        font-size: 20px;
+        font-weight: 300;
+        margin-right: 50px;
+
+        .link {
+            color: $white;
+            font-size: 19px;
+            font-weight: 300;
+            text-decoration: none;
+        }
+    }
+}
+
+@media screen and(max-width: 980px) {
+    .dataBar {        
+        p {
+            font-size: 18px;
+    
+            .link {
+                font-size: 18px;
+            }
+        }
+    }
+}
+
+@media screen and(max-width: 801px) {
+    .dataBar {
+        p {
+            width: 100%;
+            text-align: center;
+            margin-right: 0px;
+            margin-bottom: 10px;
+        }
+    }
+}
+
+@media screen and(max-width: 565px) {
+    .dataBar {        
+        p {    
+            .link {
+                width: 100%;
+                display: inline-block;
+            }
+        }
+    }
+}
+
+@media screen and(max-width: 439px) {
+    .dataBar {        
+        p {
+            font-size: 16px;
+
+            .link {
+                font-size: 16px;
+            }
+        }
+    }
+}

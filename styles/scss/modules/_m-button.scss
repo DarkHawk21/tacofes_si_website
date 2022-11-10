@@ -1,0 +1,45 @@
+.button {
+    color: $white;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 8px 25px;
+    border-radius: 20px;
+    text-decoration: none;
+    background: $second-blue;
+    transition: ease all 0.25s;
+    border: 1px solid $second-blue;
+
+    &:hover {
+        cursor: pointer;
+        color: $second-blue;
+        background: transparent;
+        border-color: $second-blue;
+    }
+
+    &--darkblue {
+        color: $third-blue;
+        background: transparent;
+        border-color: $third-blue;
+
+        &:hover {
+            color: $white;
+            background: $third-blue;
+            border-color: $third-blue;
+        }
+    }
+
+    &--dark {
+        width: 42px;
+        height: 42px;
+        padding: 8px;
+        margin-left: 16px;
+        border-radius: 50%;
+        background: $third-blue;
+        border-color: $third-blue;
+
+        &:hover {
+            background: $second-blue;
+            border-color: $second-blue;
+        }
+    }
+}

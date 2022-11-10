@@ -1,0 +1,19 @@
+{
+  "name": "farmacias_zada_website",
+  "version": "1.0.0",
+  "description": "Tema oficial de la pagina principal de Farmacias Zada",
+  "main": "index.php",
+  "scripts": {
+    "sassw": "sass --watch styles/scss/app.scss:styles/css/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeyPro-WD/farmacias_zada_website.git"
+  },
+  "author": "KeyPro WD | Enrique Carranza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeyPro-WD/farmacias_zada_website/issues"
+  },
+  "homepage": "https://github.com/KeyPro-WD/farmacias_zada_website#readme"
+}
