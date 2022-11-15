@@ -14,7 +14,7 @@
 .subtitle {
   font-size: 36px;
   font-weight: 400;
-  color: #253779;
+  color: #5E2129;
 }
 .subtitle b {
   font-weight: 700;
@@ -27,7 +27,7 @@
   font-size: 20px;
   font-weight: 300;
   max-width: 900px;
-  color: #253779;
+  color: #5E2129;
 }
 .paragraph--white {
   color: #FFFFFF;
@@ -36,13 +36,13 @@
 .subtitle3 {
   font-size: 24px;
   font-weight: 700;
-  color: #253779;
+  color: #5E2129;
 }
 
 .subtitle4 {
   font-size: 20px;
   font-weight: 600;
-  color: #253779;
+  color: #5E2129;
 }
 .subtitle4--white {
   color: #FFFFFF;
@@ -72,7 +72,7 @@
   justify-content: flex-end;
 }
 .index .head .container .head__box .slogan {
-  color: #253779;
+  color: #5E2129;
   font-size: 40px;
   font-weight: 400;
   margin-bottom: 40px;
@@ -84,7 +84,7 @@
   font-size: 24px;
   text-align: left;
   font-weight: 300;
-  color: #253779;
+  color: #5E2129;
   margin-bottom: 20px;
 }
 .index .head .container .head__box__paragraph .iconList {
@@ -196,7 +196,7 @@
   font-size: 18px;
   font-weight: 300;
   max-width: 450px;
-  color: #253779;
+  color: #5E2129;
   align-items: center;
   flex-direction: row;
 }
@@ -204,7 +204,7 @@
   padding: 12px 10px;
   border-radius: 7px;
   margin-right: 18px;
-  background: #02e1cd linear-gradient(0deg, #02e1cd 0%, #2c96af 100%);
+  background: rgb(2, 225, 205) linear-gradient(0deg, #ff7800 0%, #ff7800 100%);
   box-shadow: 1px 1px 5px rgba(43, 43, 43, 0.4);
 }
 .index .medicalServices {
@@ -257,7 +257,7 @@
   align-items: center;
   flex-direction: row;
   justify-content: center;
-  background: #55dfff linear-gradient(55deg, #55dfff 0%, #032dc8 70%);
+  background: rgb(85, 223, 255) linear-gradient(55deg, #ff7800 0%, #5E2129 70%);
 }
 .index .medicalServices__serviceCard__icon {
   margin-right: 15px;
@@ -333,7 +333,7 @@
   border: none;
   font-size: 14px;
   padding: 8px 10px;
-  color: #4DC6E2;
+  color: #ff7800;
   border-radius: 7px;
 }
 .index .recruitment__form .form__control:focus {
@@ -355,14 +355,14 @@
   float: left;
   margin-right: 10px;
   border-radius: 5px;
-  border: 1px solid #4DC6E2;
+  border: 1px solid #ff7800;
 }
 .index .recruitment__form input[type=checkbox]:checked + label:after {
   content: "";
   width: 8px;
   height: 3px;
   float: left;
-  border: 4px solid #4DC6E2;
+  border: 4px solid #ff7800;
   margin-left: -24px;
   border-right: 0;
   border-top: 0;
@@ -382,7 +382,7 @@
 }
 .index .recruitment__form input[type=checkbox] + label a {
   font-weight: 500;
-  color: #253779;
+  color: #5E2129;
   text-decoration: none;
 }
 .index .recruitment__form .button {
@@ -416,7 +416,7 @@
 }
 .index .branchOffices__item {
   overflow: hidden;
-  color: #253779;
+  color: #5E2129;
   margin-bottom: 20px;
 }
 .index .branchOffices__item strong {
@@ -475,9 +475,9 @@
   font-size: 32px;
   padding: 0 16px;
   border-radius: 2px;
-  color: #4DC6E2;
+  color: #ff7800;
   display: inline-block;
-  border-left: 4px solid #4DC6E2;
+  border-left: 4px solid #ff7800;
 }
 .index .franchises__box .button {
   margin-top: 50px;
@@ -654,7 +654,7 @@
   align-items: center;
   flex-direction: row;
   justify-content: center;
-  background: #253779;
+  background: #5E2129;
 }
 .dataBar p {
   color: #FFFFFF;
@@ -706,25 +706,25 @@
   padding: 8px 25px;
   border-radius: 20px;
   text-decoration: none;
-  background: #4DC6E2;
+  background: #ff7800;
   transition: ease all 0.25s;
-  border: 1px solid #4DC6E2;
+  border: 1px solid #ff7800;
 }
 .button:hover {
   cursor: pointer;
-  color: #4DC6E2;
+  color: #ff7800;
   background: transparent;
-  border-color: #4DC6E2;
+  border-color: #ff7800;
 }
 .button--darkblue {
-  color: #253779;
+  color: #5E2129;
   background: transparent;
-  border-color: #253779;
+  border-color: #5E2129;
 }
 .button--darkblue:hover {
   color: #FFFFFF;
-  background: #253779;
-  border-color: #253779;
+  background: #5E2129;
+  border-color: #5E2129;
 }
 .button--dark {
   width: 42px;
@@ -732,12 +732,12 @@
   padding: 8px;
   margin-left: 16px;
   border-radius: 50%;
-  background: #253779;
-  border-color: #253779;
+  background: #5E2129;
+  border-color: #5E2129;
 }
 .button--dark:hover {
-  background: #4DC6E2;
-  border-color: #4DC6E2;
+  background: #ff7800;
+  border-color: #ff7800;
 }
 
 .topBar {
@@ -785,7 +785,7 @@
   justify-content: space-between;
 }
 .principalMenu__menu__item__link {
-  color: #253779;
+  color: #5E2129;
   font-size: 16px;
   font-weight: 300;
   padding: 10px 15px;
@@ -793,7 +793,7 @@
   transition: ease all 0.25s;
 }
 .principalMenu__menu__item__link:hover {
-  color: #4DC6E2;
+  color: #ff7800;
 }
 
 @media screen and (max-width: 1024px) {
@@ -843,7 +843,7 @@ footer .logoContainer .logo {
 footer .contactData {
   display: flex;
   font-size: 18px;
-  color: #253779;
+  color: #5E2129;
   margin-bottom: 50px;
   flex-direction: column;
   align-items: flex-start;
@@ -851,12 +851,12 @@ footer .contactData {
 }
 footer .contactData a {
   font-size: 18px;
-  color: #253779;
+  color: #5E2129;
   text-decoration: none;
   transition: ease all 0.25s;
 }
 footer .contactData a:hover {
-  color: #4DC6E2;
+  color: #ff7800;
 }
 footer .socialNetworks a {
   cursor: pointer;
@@ -875,6 +875,7 @@ footer .socialNetworks a:first-child img {
   font-size: 16px;
   padding: 20px 25px;
   text-align: center;
+  border-radius: 7px;
   margin-bottom: 20px;
 }
 .alert.success {

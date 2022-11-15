@@ -6,7 +6,7 @@
 
     <div class="topBar">
         <div class="container">
-            <img class="imgLogo" src="./src/images/logos/logo_farmacias_zada.svg" alt="Logotipo Farmacias Zada">
+            <img class="imgLogo" src="./src/images/logos/logo_farmacias_zada.png" alt="Logotipo Farmacias Zada">
 
             <nav class="principalMenu">
                 <ul class="principalMenu__menu">
@@ -14,13 +14,13 @@
                         <a href="sectionAboutUs" class="principalMenu__menu__item__link">Sobre nosotros</a>
                     </li>
                     <li class="principalMenu__menu__item">
-                        <a href="sectionPharmacy" class="principalMenu__menu__item__link">Farmacia</a>
+                        <a href="sectionPharmacy" class="principalMenu__menu__item__link">Productos</a>
                     </li>
                     <li class="principalMenu__menu__item">
-                        <a href="sectionMedicalServices" class="principalMenu__menu__item__link">Servicios médicos</a>
+                        <a href="sectionMedicalServices" class="principalMenu__menu__item__link">Paquetes</a>
                     </li>
                     <li class="principalMenu__menu__item">
-                        <a href="sectionFranchises" class="principalMenu__menu__item__link">Servicios profesionales</a>
+                        <a href="sectionFranchises" class="principalMenu__menu__item__link">Promociones</a>
                     </li>
                 </ul>
             </nav>

@@ -59,7 +59,7 @@ try {
                             <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                                 <tr>
                                     <td align="center" style="padding:40px 0 30px 0;background:#ffffff;">
-                                        <img src="https://farmaciazada.com/src/images/logos/logo_farmacias_zada.svg" alt="" width="300" style="height:auto;display:block;" />
+                                        <img src="https://farmaciazada.com/src/images/logos/logo_farmacias_zada.png" alt="" width="300" style="height:auto;display:block;" />
                                     </td>
                                 </tr>
 

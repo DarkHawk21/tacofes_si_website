@@ -1,7 +1,7 @@
 <section class="recruitment" id="sectionRecruitment">
     <div class="container">
-        <h2 class="subtitle subtitle--white">Reclutamiento de personal médico</h2>
-        <p class="paragraph paragraph--white">Contrata a tu personal médico a un bajo costo, contamos con una amplia cartera de perfiles para la salud completamente capacitados.</p>
+        <h2 class="subtitle subtitle--white">¿Tienes algún evento?</h2>
+        <p class="paragraph paragraph--white">Déjanos un mensaje y nosotros lo cubrimos. Contamos con más de 10 años de experiencia en todo tipo de momentos especiales para ti y tus acompañantes.</p>
 
         <form action="#" class="recruitment__form" onsubmit="sendEmail(event)">
             <div class="form__row">
@@ -55,10 +55,10 @@
                 </div>
             </div>
 
-            <div class="form__row">
+            <!-- <div class="form__row">
                 <input type="checkbox" class="form__control" id="formTerms" name="terms" checked>
                 <label for="formTerms">Acepto los <a href="./src/files/FZ_aviso_de_privacidad.pdf" target="_blank">términos y condiciones</a>. *</label>
-            </div>
+            </div> -->
 
             <div class="form__row form__row--right">
                 <button type="submit" class="button" id="formButtonSend">Enviar</button>

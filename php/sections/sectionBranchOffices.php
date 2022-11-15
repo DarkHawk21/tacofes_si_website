@@ -12,19 +12,9 @@
     <div class="branchOffices__info">
         <h2 class="subtitle"><b>Sucursales</b></h2>
 
-        <div class="branchOffices__item"><strong>Sucursal Puerto Arturo <img src="./src/images/icons/icon_down.svg" alt="Icon down" class="iconDown"></strong>
-            <p>Calle Puerto Arturo 116 Col. Aquiles Serdán CP. 15430 Venustiano Carranza CDMX</p>
-            <p>Horario de Farmacia <br>Lunes a Sábado de 8:00 a 21:30 hrs <b>|</b> Domingo de 9:00 a 21:30 hrs</p>
-        </div>
-
-        <div class="branchOffices__item branchOffices__item--hidden"><strong>Sucursal Moctezuma <img src="./src/images/icons/icon_down.svg" alt="Icon down" class="iconDown"></strong>
-            <p>Calle Juan A. Gutiérrez #27 Col. Moctezuma 1era seccion CP. 15500 Venustiano Carranza CDMX</p>
-            <p>Horario de Farmacia <br>Lunes a Sábado de 8:00 a 21:30 hrs <b>|</b> Domingo de 9:00 a 21:30 hrs</p>
-        </div>
-
-        <div class="branchOffices__item branchOffices__item--hidden"><strong>Sucursal Campestre <img src="./src/images/icons/icon_down.svg" alt="Icon down" class="iconDown"></strong>
-            <p>Calle Camino parque central #56 Col campestre Aragón CP. 07530 Gustavo A. Madero CDMX</p>
-            <p>Horario de Farmacia <br>Lunes a Sábado de 8:00 a 21:30 hrs <b>|</b> Domingo de 9:00 a 21:30 hrs</p>
+        <div class="branchOffices__item"><strong>Sucursal FES Aragón <img src="./src/images/icons/icon_down.svg" alt="Icon down" class="iconDown"></strong>
+            <p>Av Hacienda de Rancho Seco S/N, Plazas de Aragon, 57171 Nezahualcóyotl, Méx.</p>
+            <p>Horario de venta <br>Lunes a Sábado de 9:00 a 20:30 hrs</p>
         </div>
     </div>
 </section>
